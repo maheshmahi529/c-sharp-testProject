@@ -1,0 +1,12 @@
+.box {
+    width: 30%;
+    padding: 10px;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 50px;
+    cursor: pointer;
+}
+
+.green { background-color: green; }
+.yellow { background-color: yellow; }
+.red { background-color: red; }
